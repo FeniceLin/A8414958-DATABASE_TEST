@@ -1,4 +1,7 @@
 123
 test
 clone1-test
+<<<<<<< HEAD
 user2
+user1
+
